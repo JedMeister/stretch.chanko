@@ -88,3 +88,29 @@ webmin-lvm
 ssh
 
 /* additional */
+mktemp
+grep
+ncurses-bin
+diffutils
+hostname
+e2fsprogs
+initscripts
+sysv-rc
+sed
+findutils
+gzip
+login
+ncurses-base
+docbook-utils
+python-all-dev
+aptitude
+debhelper
+build-essential
+cdbs
+fakeroot
+python-all
+faketime
+xmlto
+linux-image-amd64
+perl-openssl-abi-1.1
+sysvinit-core
