@@ -1,5 +1,6 @@
 /* boot */
 systemd
+systemd-sysv
 syslinux
 hdparm
 //casper
@@ -55,6 +56,7 @@ shellinabox
 //webmin-net
 git-core
 screen
+dehydrated
 python-bottle
 //webmin-shell
 iptables
@@ -129,7 +131,5 @@ python-pycurl
 dialog
 libdebian-installer4
 libauthen-pam-perl
-dehydrated
 aufs-dkms
 linux-headers-4.9.0-3-amd64
-systemd-sysv
